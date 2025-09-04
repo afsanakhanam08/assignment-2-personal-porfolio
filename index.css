@@ -1,0 +1,46 @@
+body{
+    background-color: blanchedalmond;
+    font-size: larger;
+}
+h1{
+    color: brown;
+    text-shadow: 0 0 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: rgb(165, 42, 71);
+}
+h3{
+    color: rgb(18, 105, 148);
+    text-align: center;
+}
+p{
+    font-size: small;
+    font-family: 'Times New Roman' ;
+    font-style: normal;
+    text-align: center;
+}
+img{
+    border-radius: 50px;
+}
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+nav a{
+    font-weight: bold;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid#121111;
+    border-radius: 8px;
+    text-decoration: none;
+    color: rgb(50, 6, 126);
+}
+table{
+    margin: 20px auto;
+    text-align: center;
+}
+
